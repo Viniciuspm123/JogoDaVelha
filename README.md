@@ -1,4 +1,4 @@
-## Projeto 15 (Extensão) - Jogo da Velha (Java Swing)
+## Projeto - Jogo da Velha (Java Swing)
 
 Este projeto implementa o clássico **Jogo da Velha (Tic-Tac-Toe)** utilizando a biblioteca **Java Swing**. O foco é criar uma interface gráfica funcional onde dois jogadores podem se revezar, com a aplicação verificando automaticamente as condições de vitória e empate.
 
